@@ -34,7 +34,7 @@ Provider-neutral settings:
 
 ```env
 LLM_PROVIDER=openai
-LLM_API_KEY=your-key
+LLM_API_KEY=<your-api-key>
 LLM_BASE_URL=
 LLM_MODEL=gpt-4o-mini
 ```
@@ -43,7 +43,7 @@ OpenRouter:
 
 ```env
 LLM_PROVIDER=openrouter
-LLM_API_KEY=sk-or-v1-your-key
+LLM_API_KEY=<your-openrouter-api-key>
 LLM_BASE_URL=https://openrouter.ai/api/v1
 LLM_MODEL=openai/gpt-4o-mini
 ```

@@ -1,7 +1,13 @@
 .env
+.enc
 .venv/
 __pycache__/
 .pytest_cache/
 *.pyc
 data/
 .DS_Store
+evals/results.json
+evals/history/
+evals/generated_tasks.json
+evals/improvement_report.md
+evals/leaderboard.md
